@@ -12,4 +12,4 @@ Dieses Repository enthält Material über funktionale Programmierung mit Swift.
 ## Macoun 2015
 
 * Vortrag auf der Macoun 2015
-* Autor: Stefan Wehr (wehr AT cp-med DOT com, @skogsbaer bei Twitter)
+* Autor: Stefan Wehr ([Email](wehr@cp-med.com), [Twitter](https://twitter.com/skogsbaer))
