@@ -1,6 +1,6 @@
 # Funktionale Programmierung mit Swift
 
-This repository contains material about function programming Swift
+Dieses Repository enthält Material über funktionale Programmierung mit Swift.
 
 * Lizenzen:
   - Vortragsfolien:
@@ -12,4 +12,4 @@ This repository contains material about function programming Swift
 ## Macoun 2015
 
 * Vortrag auf der Macoun 2015
-* Autor: Stefan Wehr
+* Autor: Stefan Wehr (wehr AT cp-med DOT com, @skogsbaer bei Twitter)
